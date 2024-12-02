@@ -80,6 +80,6 @@ end
 --> then it will basically just put all the stuff in there, just wait for it to be done
 
 --> either loadstring or just the pasted script here 
---> btw dont use tbo its skidded lmao 
+--> btw dont use tbo its skidded 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cool5013/TBO/refs/heads/main/paid"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tariviste/Gojo/main/Source"))()
